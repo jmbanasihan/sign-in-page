@@ -1,0 +1,106 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background: #E5E5E5;
+}
+
+a {
+    text-decoration: none;
+}
+
+.sign-in-logo {
+    width: 117px;
+    height: 32px;
+    margin-top: 20px;
+}
+
+.text-container {
+    margin-right: 2rem;
+}
+
+.title {
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 60px;
+    margin-top: 6rem;
+}
+
+.description {
+    font-size: 0.875rem;
+    line-height: 1.875rem;
+    margin-top: 16px;
+    margin-bottom: 48px;
+    padding-right: 5rem;
+}
+
+.form-container {
+    width: 530px;
+    height: 525px;
+    border-radius: 30px;
+    background: #FFF;
+    padding: 3rem 3rem;
+}
+
+input {
+    border-radius: 12px;
+    border: #DDDDDD;
+    margin-top: 3px;
+}
+
+.orange-color {
+    background: #F6830F;
+}
+
+.orange-text {
+    color: #F6830F;
+}
+
+.forget-pass:hover {
+    text-decoration: underline;
+}
+
+.sign-in-text {
+    margin-top: 24px;
+    margin-bottom: 40px;
+}
+
+.sign-in-btn {
+    margin-top: 24px;
+    padding: 0.5rem 9em;
+    border-radius: 12px;
+    color: #FFF;
+}
+
+.sign-in-btn:hover {
+    color: #F6830F;
+    background: none;
+    border: 1px solid #F6830F;
+}
+
+.google-btn-container, .apple-btn-container {
+    border: 1px solid #DDDDDD;
+    border-radius: 12px;
+    padding: 0.5rem 3rem;
+}
+
+.fab {
+    font-size: 1.3rem;
+    margin-top: 0.5rem;
+}
+
+.google-btn-container:hover {
+    background: rgb(223, 220, 220);
+}
+
+.apple-btn-container:hover {
+    background: rgb(223, 220, 220);
+}
+
+.picture-container {
+    margin-top: 1rem;
+}
+
+.picture {
+    border-radius: 12px;
+    width: 599px;
+    height: 900px;
+}
