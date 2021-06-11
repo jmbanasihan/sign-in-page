@@ -10,7 +10,7 @@ This was translated into code, based on a Figma design, using Bootstrap. It was 
 
 ## Demo 
 
-![banner](banner.gif)
+![banner](demo.gif)
 
 <br><br>
 
