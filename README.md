@@ -25,11 +25,17 @@ This was translated into code, based on a Figma design, using Bootstrap. It was 
 
 ![banner](demo.gif)
 
-<p align='left'>Check it out<a href="https://jmbanasihan.github.io/sign-in-page/public/"> here</a></p> 
+<p align="left">
+<a><img src="https://komarev.com/ghpvc/?username=jmbanasihan">
+</a>
+<a><img src="https://img.shields.io/github/followers/jmbanasihan?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
+
+<p align='left'>You can check it out<a href="https://jmbanasihan.github.io/sign-in-page/public/"> here</a>.</p> 
 
 <br><hr>
 
-<br><br>
+
 
 <p align='center'>For inquiries, contact me via<a href = "mailto:janimargaret09@gmail.com"> Gmail</a> or over on <a href="https://www.linkedin.com/in/janiel-banasihan/">LinkedIn</a>.</p>
 
