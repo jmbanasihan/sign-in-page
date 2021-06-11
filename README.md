@@ -1,21 +1,18 @@
 ![banner](banner.gif)
+
+<br>
+
 <h1 align='center'> What's up :wave:</h1>
 <br>
 
 ## Introduction
 
-<br><br>
+<br>
 
 <p align='left'>
 This was translated into code, based on a Figma design, using Bootstrap. It was my first time using Bootstrap, and I was happy with the result. Will definitely explore more with Bootstrap!
 </p>
 <br>
-
-## Demo 
-
-![banner](demo.gif)
-
-<br><br>
 
 ## Built with
 <br>
@@ -26,6 +23,14 @@ This was translated into code, based on a Figma design, using Bootstrap. It was 
 
 <br>
 
-<p align='center'>For inquiries, contact me via<a href = "mailto:janimargaret09@gmail.com"> Gmail</a> or over on <a href="https://www.linkedin.com/in/janiel-banasihan/">LinkedIn</a></p>
+## Demo 
+
+![banner](demo.gif)
+
+<p align='left'>Check it out<a href="https://jmbanasihan.github.io/sign-in-page/public/">here</a></p> 
+
+<br><br>
+
+<p align='center'>For inquiries, contact me via<a href = "mailto:janimargaret09@gmail.com"> Gmail</a> or over on <a href="https://www.linkedin.com/in/janiel-banasihan/">LinkedIn</a>.</p>
 
 <h1 align='center'><i>Stay awesome!</i></h1>
